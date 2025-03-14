@@ -1,0 +1,33 @@
+{
+  "id": 18,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Rock.png",
+  "token_id": "rock",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Rock",
+  "description": "This rock can be thrown at your opponent directly.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "cost",
+      "value": "0"
+    },
+    {
+      "trait_type": "effect",
+      "value": "This rock can be thrown at your opponent directly."
+    },
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "1"
+    },
+    {
+      "trait_type": "hp",
+      "value": "1"
+    }
+  ]
+}

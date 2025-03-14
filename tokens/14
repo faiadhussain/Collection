@@ -1,0 +1,25 @@
+{
+  "id": 14,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Meteorite.png",
+  "token_id": "meteorite",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Meteorite",
+  "description": "Destroy all your opponent's weapons.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "tech"
+    },
+    {
+      "trait_type": "cost",
+      "value": "5"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Destroy all your opponent's weapons."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 17,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Repair.png",
+  "token_id": "repair",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Repair",
+  "description": "Restore a weapon's HP by 3",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "tech"
+    },
+    {
+      "trait_type": "cost",
+      "value": "1"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Restore a weapon's HP by 3"
+    }
+  ]
+}

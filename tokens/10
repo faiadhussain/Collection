@@ -1,0 +1,33 @@
+{
+  "id": 10,
+  "image": "https://faiadhussain.github.io/Collection/tokens/ElvenBow.png",
+  "token_id": "elven_bow",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Elven Bow",
+  "description": "Can attack directly.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "3"
+    },
+    {
+      "trait_type": "hp",
+      "value": "4"
+    },
+    {
+      "trait_type": "cost",
+      "value": "2"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Can attack directly."
+    }
+  ]
+}

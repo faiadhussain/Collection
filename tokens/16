@@ -1,0 +1,33 @@
+{
+  "id": 16,
+  "image": "https://faiadhussain.github.io/Collection/tokens/PlainStaff.png",
+  "token_id": "plain_staff",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Plain Staff",
+  "description": "On destruction, draw 1 card.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "3"
+    },
+    {
+      "trait_type": "hp",
+      "value": "4"
+    },
+    {
+      "trait_type": "cost",
+      "value": "1"
+    },
+    {
+      "trait_type": "effect",
+      "value": "On destruction, draw 1 card."
+    }
+  ]
+}

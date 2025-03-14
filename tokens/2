@@ -1,0 +1,25 @@
+{
+  "id": 2,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Fireball.png",
+  "token_id": "fireball",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Fireball",
+  "description": "Deal 5 damage to your opponent.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "tech"
+    },
+    {
+      "trait_type": "cost",
+      "value": "2"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Deal 5 damage to your opponent."
+    }
+  ]
+}

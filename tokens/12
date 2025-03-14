@@ -1,0 +1,33 @@
+{
+  "id": 12,
+  "image": "https://faiadhussain.github.io/Collection/tokens/HealingStaff.png",
+  "token_id": "healing_staff",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Healing Staff",
+  "description": "Heals owner for 2HP on equip",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "3"
+    },
+    {
+      "trait_type": "hp",
+      "value": "5"
+    },
+    {
+      "trait_type": "cost",
+      "value": "2"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Heals owner for 2HP on equip"
+    }
+  ]
+}

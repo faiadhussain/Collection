@@ -1,0 +1,25 @@
+{
+  "id": 13,
+  "image": "https://faiadhussain.github.io/Collection/tokens/HiddenGold.png",
+  "token_id": "hidden_gold",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Hidden Gold",
+  "description": "Draw 2 cards",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "tech"
+    },
+    {
+      "trait_type": "cost",
+      "value": "2"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Draw 2 cards"
+    }
+  ]
+}

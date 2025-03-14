@@ -1,0 +1,25 @@
+{
+  "id": 6,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Bandages.png",
+  "token_id": "bandages",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Bandages",
+  "description": "Heal yourself for 3HP.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "tech"
+    },
+    {
+      "trait_type": "cost",
+      "value": "1"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Heal yourself for 3HP."
+    }
+  ]
+}

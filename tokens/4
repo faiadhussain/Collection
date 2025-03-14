@@ -1,0 +1,33 @@
+{
+  "id": 4,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Sword.png",
+  "token_id": "sword",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Sword",
+  "description": "Just a trusty sword",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "3"
+    },
+    {
+      "trait_type": "hp",
+      "value": "5"
+    },
+    {
+      "trait_type": "cost",
+      "value": "1"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Just a trusty sword"
+    }
+  ]
+}

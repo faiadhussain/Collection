@@ -1,0 +1,33 @@
+{
+  "id": 7,
+  "image": "https://faiadhussain.github.io/Collection/tokens/BattleStaff.png",
+  "token_id": "battle_staff",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Battle Staff",
+  "description": "Takes no damage when attacking.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "5"
+    },
+    {
+      "trait_type": "hp",
+      "value": "5"
+    },
+    {
+      "trait_type": "cost",
+      "value": "3"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Takes no damage when attacking."
+    }
+  ]
+}

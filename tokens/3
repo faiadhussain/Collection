@@ -1,0 +1,25 @@
+{
+  "id": 3,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Strengthen.png",
+  "token_id": "strengthen",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Strengthen",
+  "description": "Buff 1 of your weapons by 3 ATK",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "tech"
+    },
+    {
+      "trait_type": "cost",
+      "value": "1"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Buff 1 of your weapons by 3 ATK"
+    }
+  ]
+}

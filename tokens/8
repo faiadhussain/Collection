@@ -1,0 +1,25 @@
+{
+  "id": 8,
+  "image": "https://faiadhussain.github.io/Collection/tokens/BrokenTool.png",
+  "token_id": "broken_tool",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Broken Tool",
+  "description": "Change an enemy weapons HP to 1",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "tech"
+    },
+    {
+      "trait_type": "cost",
+      "value": "1"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Change an enemy weapons HP to 1"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 20,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Soul-PiercingSpear.png",
+  "token_id": "soul_piercing_spear",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Soul-piercing Spear",
+  "description": "Deals 1 dmg to opponent when attacking",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "5"
+    },
+    {
+      "trait_type": "hp",
+      "value": "5"
+    },
+    {
+      "trait_type": "cost",
+      "value": "2"
+    },
+    {
+      "trait_type": "effect",
+      "value": "Deals 1 dmg to opponent when attacking"
+    }
+  ]
+}

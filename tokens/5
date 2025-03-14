@@ -1,0 +1,33 @@
+{
+  "id": 5,
+  "image": "https://faiadhussain.github.io/Collection/tokens/AxeOfTerror.png",
+  "token_id": "axe_of_terror",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Axe of Terror",
+  "description": "This Axe has claimed the lives of many trees",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "6"
+    },
+    {
+      "trait_type": "hp",
+      "value": "3"
+    },
+    {
+      "trait_type": "cost",
+      "value": "2"
+    },
+    {
+      "trait_type": "effect",
+      "value": "This Axe has claimed the lives of many trees"
+    }
+  ]
+}

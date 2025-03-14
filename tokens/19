@@ -1,0 +1,33 @@
+{
+  "id": 19,
+  "image": "https://faiadhussain.github.io/Collection/tokens/RunicSword.png",
+  "token_id": "runic_sword",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Runic Sword",
+  "description": "A legendary blade wielded from time past.",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value": "weapon"
+    },
+    {
+      "trait_type": "atk",
+      "value": "7"
+    },
+    {
+      "trait_type": "hp",
+      "value": "8"
+    },
+    {
+      "trait_type": "cost",
+      "value": "3"
+    },
+    {
+      "trait_type": "effect",
+      "value": "A legendary blade wielded from time past."
+    }
+  ]
+}
