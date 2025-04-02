@@ -1,12 +1,12 @@
 {
-  "id": 14,
-  "image": "https://faiadhussain.github.io/Collection/tokens/Meteorite.png",
-  "token_id": "meteorite",
+  "id": 15,
+  "image": "https://faiadhussain.github.io/Collection/tokens/MutualDestruction.png",
+  "token_id": "15",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Meteorite",
-  "description": "Destroy all your opponent's weapons.",
+  "name": "Mutual Destruction",
+  "description": "Destroy all weapons on field.",
   "external_url": null,
   "attributes": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "cost",
-      "value": "5"
+      "value": "3"
     },
     {
       "trait_type": "effect",
-      "value": "Destroy all your opponent's weapons."
+      "value": "Destroy all weapons on field."
     }
   ]
 }

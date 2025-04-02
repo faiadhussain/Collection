@@ -1,12 +1,12 @@
 {
-  "id": 2,
-  "image": "https://faiadhussain.github.io/Collection/tokens/Fireball.png",
-  "token_id": "fireball",
+  "id": 3,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Strengthen.png",
+  "token_id": "3",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Fireball",
-  "description": "Deal 5 damage to your opponent.",
+  "name": "Strengthen",
+  "description": "Buff 1 of your weapons by 3 ATK",
   "external_url": null,
   "attributes": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "cost",
-      "value": "2"
+      "value": "1"
     },
     {
       "trait_type": "effect",
-      "value": "Deal 5 damage to your opponent."
+      "value": "Buff 1 of your weapons by 3 ATK"
     }
   ]
 }

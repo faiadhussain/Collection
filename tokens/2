@@ -1,12 +1,12 @@
 {
-  "id": 6,
-  "image": "https://faiadhussain.github.io/Collection/tokens/Bandages.png",
-  "token_id": "bandages",
+  "id": 2,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Fireball.png",
+  "token_id": "2",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Bandages",
-  "description": "Heal yourself for 3HP.",
+  "name": "Fireball",
+  "description": "Deal 5 damage to your opponent.",
   "external_url": null,
   "attributes": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "cost",
-      "value": "1"
+      "value": "2"
     },
     {
       "trait_type": "effect",
-      "value": "Heal yourself for 3HP."
+      "value": "Deal 5 damage to your opponent."
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "id": 17,
-  "image": "https://faiadhussain.github.io/Collection/tokens/Repair.png",
-  "token_id": "repair",
+  "id": 8,
+  "image": "https://faiadhussain.github.io/Collection/tokens/BrokenTool.png",
+  "token_id": "8",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Repair",
-  "description": "Restore a weapon's HP by 3",
+  "name": "Broken Tool",
+  "description": "Change an enemy weapons HP to 1",
   "external_url": null,
   "attributes": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "effect",
-      "value": "Restore a weapon's HP by 3"
+      "value": "Change an enemy weapons HP to 1"
     }
   ]
 }

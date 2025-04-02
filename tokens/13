@@ -1,12 +1,12 @@
 {
-  "id": 9,
-  "image": "https://faiadhussain.github.io/Collection/tokens/Disarm.png",
-  "token_id": "disarm",
+  "id": 13,
+  "image": "https://faiadhussain.github.io/Collection/tokens/HiddenGold.png",
+  "token_id": "13",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Disarm!",
-  "description": "Send any 1 weapon under 3HP to the discard pile",
+  "name": "Hidden Gold",
+  "description": "Draw 2 cards",
   "external_url": null,
   "attributes": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "effect",
-      "value": "Send any 1 weapon under 3HP to the discard pile"
+      "value": "Draw 2 cards"
     }
   ]
 }

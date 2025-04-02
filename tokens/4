@@ -1,12 +1,12 @@
 {
-  "id": 1,
-  "image": "https://faiadhussain.github.io/Collection/tokens/Bow.png",
-  "token_id": "bow",
+  "id": 4,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Sword.png",
+  "token_id": "4",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Bow",
-  "description": "Can attack directly. Does not take damage when attacking.",
+  "name": "Sword",
+  "description": "Just a trusty sword",
   "external_url": null,
   "attributes": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "atk",
-      "value": "2"
+      "value": "3"
     },
     {
       "trait_type": "hp",
-      "value": "3"
+      "value": "5"
     },
     {
       "trait_type": "cost",
@@ -27,7 +27,7 @@
     },
     {
       "trait_type": "effect",
-      "value": "Can attack directly. Does not take damage when attacking."
+      "value": "Just a trusty sword"
     }
   ]
 }

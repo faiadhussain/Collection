@@ -1,12 +1,12 @@
 {
-  "id": 8,
-  "image": "https://faiadhussain.github.io/Collection/tokens/BrokenTool.png",
-  "token_id": "broken_tool",
+  "id": 6,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Bandages.png",
+  "token_id": "6",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Broken Tool",
-  "description": "Change an enemy weapons HP to 1",
+  "name": "Bandages",
+  "description": "Heal yourself for 3HP.",
   "external_url": null,
   "attributes": [
     {
@@ -19,7 +19,7 @@
     },
     {
       "trait_type": "effect",
-      "value": "Change an enemy weapons HP to 1"
+      "value": "Heal yourself for 3HP."
     }
   ]
 }

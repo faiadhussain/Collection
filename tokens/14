@@ -1,12 +1,12 @@
 {
-  "id": 13,
-  "image": "https://faiadhussain.github.io/Collection/tokens/HiddenGold.png",
-  "token_id": "hidden_gold",
+  "id": 14,
+  "image": "https://faiadhussain.github.io/Collection/tokens/Meteorite.png",
+  "token_id": "14",
   "background_color": null,
   "animation_url": null,
   "youtube_url": null,
-  "name": "Hidden Gold",
-  "description": "Draw 2 cards",
+  "name": "Meteorite",
+  "description": "Destroy all your opponent's weapons.",
   "external_url": null,
   "attributes": [
     {
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "cost",
-      "value": "2"
+      "value": "5"
     },
     {
       "trait_type": "effect",
-      "value": "Draw 2 cards"
+      "value": "Destroy all your opponent's weapons."
     }
   ]
 }
